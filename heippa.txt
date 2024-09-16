@@ -3,3 +3,5 @@ Heippa,
 tämä on testitiedosto githubin testaamista varten.
 TOinen rivi.
 JA kolmas rivi.
+
+tämä on uusi rivi, lisätty netissä.
