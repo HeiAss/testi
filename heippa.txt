@@ -5,4 +5,6 @@ TOinen rivi.
 JA kolmas rivi.
 
 tämä on uusi rivi, lisätty netissä.
-kaveri päivitti tätä netissä
+
+oma muokkaus koneella
+
